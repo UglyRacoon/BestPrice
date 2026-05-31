@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Сравнение цен</string>
+    <string name="price_label">Цена (руб.)</string>
+    <string name="price_placeholder">Введите цену</string>
+    <string name="amount_label">Количество</string>
+    <string name="amount_placeholder">Введите количество</string>
+    <string name="unit_label">Единица измерения:</string>
+    <string name="add_product">+ Добавить товар</string>
+    <string name="products_title">Товары</string>
+    <string name="compare_for">Сравнить за:</string>
+    <string name="compare_unit">Единица</string>
+    <string name="compare_button">Сравнить</string>
+    <string name="delete_content_description">Удалить товар</string>
+    
+    <string name="unit_g">г</string>
+    <string name="unit_kg">кг</string>
+    <string name="unit_ml">мл</string>
+    <string name="unit_l">л</string>
+    <string name="unit_pcs">шт</string>
+    <string name="unit_days">дн</string>
+
+    <string name="unit_g_long">Граммы (г)</string>
+    <string name="unit_kg_long">Килограммы (кг)</string>
+    <string name="unit_ml_long">Миллилитры (мл)</string>
+    <string name="unit_l_long">Литры (л)</string>
+    <string name="unit_pcs_long">Штуки (шт)</string>
+    <string name="unit_days_long">Дни/Порции (дн)</string>
+    
+    <string name="error_empty_fields">Пожалуйста, заполните все поля корректными числами</string>
+    <string name="error_zero_values">Цена и количество должны быть больше нуля</string>
+    <string name="best_deal">Самый выгодный! 🎉</string>
+    <string name="worst_deal">Менее выгодный</string>
+    <string name="diff_label">Дороже на %1$s%%</string>
+    <string name="item_calculated_for">%1$s руб. за %2$s %3$s</string>
+    <string name="empty_items_tip">Калькулятор пуст. Добавьте хотя бы два товара для сравнения выгоды!</string>
+</resources>

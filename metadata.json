@@ -1,0 +1,6 @@
+{
+  "name": "Сравнение цен",
+  "description": "Умный калькулятор для сравнения цен и расчета реальной выгоды товаров по весу, объему или штукам.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
